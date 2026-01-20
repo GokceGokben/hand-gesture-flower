@@ -6,6 +6,10 @@ An interactive Python application that brings a flower to life through your hand
 
 This project uses MediaPipe's Hand Landmarker to create an immersive augmented reality experience where a flower animation responds to your hand gestures in real-time. The flower blooms and closes based on how open or closed your hand is, with smooth transitions that adapt to your movement speed. The animation tracks the middle finger knuckle position, creating the illusion that the flower is growing from your hand.
 
+## Demo 
+
+https://github.com/user-attachments/assets/3875d07a-3d12-4d65-b6b0-46d11574da52
+
 ## Features
 
 - **Gesture-Based Control**: Open your hand to bloom the flower, close it to watch it fold
