@@ -28,7 +28,7 @@ pillow>=8.0.0
 
 1. Clone or download this repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/GokceGokben/hand-gesture-flower.git
 cd "flower animation"
 ```
 
